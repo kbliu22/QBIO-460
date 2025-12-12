@@ -1,0 +1,10 @@
+Best Hyperparameters:
+n_estimators: 100
+min_samples_split: 2
+min_samples_leaf: 1
+max_features: None
+max_depth: 30
+
+Best CV MAE: 1.0567
+Test MAE: 0.5746
+Test R²: 0.6700

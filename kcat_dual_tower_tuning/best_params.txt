@@ -1,0 +1,10 @@
+Best Hyperparameters:
+tower_hidden_layers: (512, 256)
+fusion_hidden_layers: (256, 128, 64)
+learning_rate: 0.001
+batch_size: 64
+
+Validation MAE: 0.7690 ± 0.0157
+Validation R²: 0.4783 ± 0.0201
+Test MAE: 0.7358 ± 0.0243
+Test R²: 0.5163 ± 0.0194
